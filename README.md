@@ -90,6 +90,7 @@ Line charts and donut visuals for trends
 
 ✅ ✅ ✅ ✅ Business Insights ✅ ✅ 
 ✅ ✅ ✅ ✅ Business Insights ✅ ✅ 
+
 Highest sales during weekends and evening hours
 
 Coffee products dominate sales share
@@ -97,3 +98,5 @@ Coffee products dominate sales share
 Consistent growth observed MoM for April
 
 Store locations like Hell's Kitchen and Astoria show highest conversions
+
+⭐ Don’t forget to ⭐ star the repo if you liked it!
