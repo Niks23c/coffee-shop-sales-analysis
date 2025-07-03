@@ -76,7 +76,7 @@ GROUP BY MONTH(transaction_date)
 ORDER BY MONTH(transaction_date);
 (Full SQL logic for all KPIs like Orders, Quantity, Categories, Products, Trends included in MY SQL Queries docx.)
 
-📊 Power BI Dashboard Features:
+## 📊 Power BI Dashboard Features:
 
 Calendar filter by month
 
@@ -88,7 +88,7 @@ Bar charts for product/category/store breakdowns
 
 Line charts and donut visuals for trends
 
-✅ ✅ ✅ ✅ Business Insights ✅ ✅ 
+## ✅ ✅ ✅ ✅ Business Insights ✅ ✅ 
 ✅ ✅ ✅ ✅ Business Insights ✅ ✅ 
 
 Highest sales during weekends and evening hours
