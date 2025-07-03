@@ -88,8 +88,8 @@ Bar charts for product/category/store breakdowns
 
 Line charts and donut visuals for trends
 
-## ✅ ✅ ✅ ✅ Business Insights ✅ ✅ 
-✅ ✅ ✅ ✅ Business Insights ✅ ✅ 
+## ✅ ✅ ✅ ✅ Business Insights ✅ ✅ ✅ ✅
+
 
 Highest sales during weekends and evening hours
 
